@@ -12,9 +12,9 @@ Project Title: Sales Performance Report (2019–2021)
 
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/New%20products%20launched%202021.pdf"> New product launched in 2021 </a>
 
-<a hraf = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf">top five countries by qty </a>
+<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf"> top five countries by qty </a>
 
-Tools Used: Microsoft Excel, Power Query, Power Pivot
+Tools Used: Microsoft Excel, Power Query, Power Pivot 
 
 ETL Process:
 
