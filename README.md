@@ -14,7 +14,7 @@ Project Title: Sales Performance Report (2019–2021)
 
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf"> top five countries by qty </a>
 
-Tools Used: Microsoft Excel, Power Query, Power Pivot 
+Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
 
 ETL Process:
 
