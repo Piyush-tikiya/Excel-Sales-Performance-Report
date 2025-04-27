@@ -25,21 +25,22 @@ ETL Process:
 •	Loaded data into Power Pivot for modeling and analysis
 
 Data Modeling:
+<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/data%20model.png"> Relationship between tables using star schema  </a>
 
-•	Built relationships between tables
+•	Five dimesnions tables(Having Unique values) are linked with fact tables (transactional table)
 
 •	Created calculated columns and measures using DAX
 
 Reporting & Insights:
 
 •	Customer-wise net sales performance
-
 •	Market-wise performance vs. targets
-
- KPI's Measures
-1.	Top 10 and bottom 5 products by quantity and sales 
-2.	Division-level growth analysis
-3.	Country-wise sales breakdown
-4.	Analysis of new product launches in 2021
+•	Top 10 and bottom 5 products by quantity and sales 
+•	Division-level growth analysis
+•	Country-wise sales breakdown
+•	Analysis of new product launches in 2021
+•	Profit and Loss statement yearly wise 
+•	Comparsion Net sales yearly wise
+•	How much growth in % compare with previous years
 
 Outcome: Interactive and insightful business report that helps the business track sales trends, identify high-performing products and markets, monitor progress toward targets, a and make data-driven decisions for strategic growth - leading to more informed decisions that boosted revenue growth and improved profit margins.
