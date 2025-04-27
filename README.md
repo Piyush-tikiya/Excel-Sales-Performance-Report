@@ -1,4 +1,4 @@
-# Excel/Sales-Performance-Report(Brick and Mortar Model)
+# Excel/Sales-Performance/Profit and Loss/Report(Brick and Mortar Model)
 
 Project Title: Sales Performance Report (2019–2021)
 
