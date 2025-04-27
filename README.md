@@ -18,6 +18,8 @@ Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
 
 ETL Process:
 
+<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/power%20query%20view.png"> Power Query View used for Extract,Transform and Load  </a>
+
 •	Extracted raw sales data from multiple sources
 
 •	Transformed and cleaned data using Power Query
@@ -25,6 +27,7 @@ ETL Process:
 •	Loaded data into Power Pivot for modeling and analysis
 
 Data Modeling:
+
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/data%20model.png"> Relationship between tables using star schema  </a>
 
 •	Five dimesnions tables(Having Unique values) are linked with fact tables (transactional table)
