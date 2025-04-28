@@ -1,6 +1,6 @@
-# Excel/Sales-Performance/Profit and Loss Report(Brick and Mortar Model)
+# Excel/Sales-Performance/Profit and Loss Report(Brick and Mortar Model) 
 
-Project Title: Sales Performance and Profit and Loss Report(2019–2021)
+<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/AtliQ%20Hardware%20Business%20Hierarchy%20Model.pdf"> AtliQ Business Model </a>
 
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/market%20performance.pdf"> Market Performance report </a>
 
