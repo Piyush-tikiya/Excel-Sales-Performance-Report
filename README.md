@@ -38,6 +38,12 @@ Data Modeling:
 
 •	Created calculated columns and measures using DAX
 
+Adding date table using power query:
+
+
+
+
+
 Reporting & Insights:
 
 •	Customer performance report of all three years 2019,2020,2021 and vs compare
