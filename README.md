@@ -40,13 +40,13 @@ Data Modeling:
 
 Reporting & Insights:
 
-•	Customer-wise net sales performance
+•	Customer performance report of all three years 2019,2020,2021 and vs compare
 •	Market-wise performance vs. targets
 •	Top 10 and bottom 5 products by quantity and sales 
 •	Division-level growth analysis
 •	Country-wise sales breakdown
 •	Analysis of new product launches in 2021
-•	Profit and Loss statement yearly wise 
+•	Profit and Loss statement yearly wise 2019,2020,and 2021
 •	Comparsion Net sales yearly wise
 •	How much growth in % compare with previous years
 
