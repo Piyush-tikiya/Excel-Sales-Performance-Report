@@ -37,12 +37,15 @@ Data Modeling:
 •	Five dimesnions tables(Having Unique values) are linked with fact tables (transactional table)
 
 •	Created calculated columns and measures using DAX
-  ![image](https://github.com/user-attachments/assets/457d8393-71c7-4778-b096-c6efa521d475)
+
+![image](https://github.com/user-attachments/assets/80409cd7-3a59-4d75-be27-84cb768c4346)
+
 
 
 • Created a date table in Power Query by fetching the start date of each month and the corresponding year, then added a new column for Fiscal Month to represent the fiscal year.
 
-![image](https://github.com/user-attachments/assets/b3eb73a9-7e32-4832-8e1a-f3bcc5cac47d)
+![image](https://github.com/user-attachments/assets/1ca881ba-39e6-432f-a9e5-1da8ac2d1af2)
+
 
 
 Reporting & Insights:
