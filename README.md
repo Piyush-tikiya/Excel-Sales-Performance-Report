@@ -38,11 +38,7 @@ Data Modeling:
 
 •	Created calculated columns and measures using DAX
 
-Adding date table using power query:
-
-
-
-
+* Created a date table in Power Query by fetching the start date of each month and the corresponding year, then added a new column for Fiscal Month to represent the fiscal year.
 
 Reporting & Insights:
 
