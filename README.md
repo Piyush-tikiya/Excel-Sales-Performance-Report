@@ -4,6 +4,8 @@ Project Title: Sales Performance and Profit and Loss Report(2019–2021)
 
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/market%20performance.pdf"> Market Performance report </a>
 
+<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/Customer%20performance%20report.pdf"> Customer Performance report </a>
+  
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/CUMULATIVE%20P%26L%20REPORT.pdf"> Profit & Loss Statement Year Wise </a>
 
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/Top%2010%20products.pdf">Top 10 Products </a>
