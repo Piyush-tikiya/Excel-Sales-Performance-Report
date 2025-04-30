@@ -85,11 +85,11 @@ Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
      ✅ Solution:
 
    
-       Total sales grew from $6.4M to $52.0M (708% increase).
+          Total sales grew from $6.4M to $52.0M (708% increase).
 
-       AQ Mx NB saw an explosive growth of over 5600%.
+          AQ Mx NB saw an explosive growth of over 5600%.
 
-       Great for understanding product-market fit and customer preferences.
+          Great for understanding product-market fit and customer preferences.
     
 
 5) **Division Level Report**
