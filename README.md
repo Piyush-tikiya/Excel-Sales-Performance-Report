@@ -82,7 +82,7 @@ Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
 
      📝 Task: Identify and compare the top 10 products by sales growth from 2020 to 2021.
 
-   ✅ Solution:
+     ✅ Solution:
 
    
        Total sales grew from $6.4M to $52.0M (708% increase).
@@ -90,8 +90,9 @@ Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
        AQ Mx NB saw an explosive growth of over 5600%.
 
        Great for understanding product-market fit and customer preferences.
+    
 
-  5) **Division Level Report**
+5) **Division Level Report**
      
      🎯 Purpose to Make: To analyze sales performance across business divisions.
 
@@ -102,8 +103,9 @@ Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
          PC division saw the highest YoY growth at 313.70%.
 
          Overall sales grew by 204.48%.
+     
 
-   6) **Top 5 and Least 5 Products**
+ 6) **Top 5 and Least 5 Products**
         
      🎯 Purpose to Make: To identify the best-performing and underperforming products based on sales quantity and revenue.
 
