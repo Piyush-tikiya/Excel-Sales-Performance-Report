@@ -30,7 +30,9 @@ AtliQ Hardware experienced rapid business growth from 2019 to 2021, with net sal
 I was responsible for developing and presenting a comprehensive business performance analysis using Excel. The objective was to identify key growth drivers, underperforming areas, and opportunities across customer segments, product lines, and global markets.
 
 
-**Action**:  I consolidated data from multiple sources and created a busines report which includes followinf below KPI:
+**Action**: 
+
+I consolidated data from multiple sources and created a busines report which includes following below KPI:
 
 
 1) **Market Performance**
