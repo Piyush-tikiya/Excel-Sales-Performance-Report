@@ -35,7 +35,7 @@ I was responsible for developing and presenting a comprehensive business perform
 I consolidated data from multiple sources and created a busines report which includes following below KPI:
 
 
-1) **<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/market%20performance.pdf"> Market Performance </a> 
+1) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/market%20performance.pdf"> Market Performance </a> 
    
     🎯 Purpose to Make: 
       To compare market-wise performance against targets.
@@ -51,7 +51,7 @@ I consolidated data from multiple sources and created a busines report which inc
 
         Aids in refining future forecasting and market prioritization.
 
- 2. **Customer Performance Report**
+ 2. <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/Customer%20performance%20report.pdf"> Customer Performance report </a>
       
     🎯 Purpose to Make: To evaluate how individual customers contributed to AtliQ Hardware’s total revenue and to identify high-growth and high-value accounts from 2019 to 2021.
 
@@ -74,7 +74,7 @@ I consolidated data from multiple sources and created a busines report which inc
          Enables the sales team to focus on top-performing accounts and investigate customer acquisition success.
     
 
-3. **Cumulative P&L Report**
+3.<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/CUMULATIVE%20P%26L%20REPORT.pdf"> Cumulative Profit & Loss Statement </a>
        
       🎯 Purpose to Make: To evaluate the financial health of AtliQ Hardware over FY 2019–2021.
 
@@ -89,7 +89,7 @@ I consolidated data from multiple sources and created a busines report which inc
 
           Visualizes profitability and guides budgeting decisions.
 
- 4) **Top 10 Products**
+ 4) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/Top%2010%20products.pdf">Top 10 Products </a>
       
      🎯 Purpose to Make: To analyze the growth trajectory of the most successful products.
 
@@ -105,7 +105,7 @@ I consolidated data from multiple sources and created a busines report which inc
           Great for understanding product-market fit and customer preferences.
     
 
-5) **Division Level Report**
+5) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/division%20level%20report.pdf"> Division Level report </a>
      
      🎯 Purpose to Make: To analyze sales performance across business divisions.
 
@@ -118,8 +118,8 @@ I consolidated data from multiple sources and created a busines report which inc
          Overall sales grew by 204.48%.
      
 
- 6) **Top 5 and Least 5 Products**
-        
+ 6) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%20%20and%20least%205%20products.pdf"> Top five and Bottom five products by qty </a>
+
      🎯 Purpose to Make: To identify the best-performing and underperforming products based on sales quantity and revenue.
 
      📝 Task: Analyze product-level sales data to extract the top 5 and bottom 5 products across all regions and markets.
@@ -129,7 +129,8 @@ I consolidated data from multiple sources and created a busines report which inc
           Top 5 products contributed a combined $19.0M in revenue.
 
           Bottom 5 products only contributed $0.2M.
-7) **New Products Launched 2021**
+    
+8) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/New%20products%20launched%202021.pdf"> New product launched in 2021 </a>
    
      🎯 Purpose to Make: To review the impact of new product launches on overall revenue.
 
@@ -141,8 +142,8 @@ I consolidated data from multiple sources and created a busines report which inc
 
           Top contributors include AQ Qwerty ($22.0M) and AQ Trigger ($20.7M).
 
-8) **Top 5 Countries**
-   
+9) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf"> top five countries by qty </a>
+
       🎯 Purpose to Make: To understand geographical distribution and performance in different countries.
 
       📝 Task: Determine which countries generated the highest net sales in 2021.
