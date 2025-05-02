@@ -21,6 +21,17 @@
 
 Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
 
+**Situation:**
+
+AtliQ Hardware experienced rapid business growth from 2019 to 2021, with net sales increasing from $87.5M in 2019 to $598.9M in 2021. The company needed to analyze and present performance across customers, products, countries, and divisions to inform strategy.
+
+**Task:**
+
+I was responsible for developing and presenting a comprehensive business performance analysis using Excel. The objective was to identify key growth drivers, underperforming areas, and opportunities across customer segments, product lines, and global markets.
+
+
+**Action**:  I consolidated data from multiple sources and created a busines report which includes followinf below KPI:
+
 
 1) **Market Performance**
    
