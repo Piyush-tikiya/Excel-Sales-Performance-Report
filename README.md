@@ -1,23 +1,8 @@
 # Excel/Sales-Performance/Profit and Loss Report(Brick and Mortar Model) 
+
 ### This repository contains various analytical PDF reports prepared for AtliQ Hardware, highlighting sales performance, financial health, market dynamics, and product-level insights for the fiscal years 2019 to 2021.
 
 <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/AtliQ%20Hardware%20Business%20Hierarchy%20Model.pdf"> AtliQ Business Model </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/market%20performance.pdf"> Market Performance report </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/Customer%20performance%20report.pdf"> Customer Performance report </a>
-  
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/CUMULATIVE%20P%26L%20REPORT.pdf"> Profit & Loss Statement Year Wise </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/Top%2010%20products.pdf">Top 10 Products </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/division%20level%20report.pdf"> Division Level report </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%20%20and%20least%205%20products.pdf"> Top five and bottom five products by qty </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/New%20products%20launched%202021.pdf"> New product launched in 2021 </a>
-
-<a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf"> top five countries by qty </a>
 
 Tools Used: Microsoft Excel, Power Query, Power Pivot, Dax Measures
 
@@ -142,7 +127,7 @@ I consolidated data from multiple sources and created a busines report which inc
 
           Top contributors include AQ Qwerty ($22.0M) and AQ Trigger ($20.7M).
 
-9) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf"> top five countries by qty </a>
+9) <a href = "https://github.com/Piyush-tikiya/Excel-Sales-Performance-Report/blob/main/top%205%20countries.pdf"> Top 5 countries by Quantity </a>
 
       🎯 Purpose to Make: To understand geographical distribution and performance in different countries.
 
